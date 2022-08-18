@@ -15,11 +15,11 @@ All npm scripts can be found in the package.json file
 To make this gulp build work you must put processing files into /gulp-src folder.
 
 Your folder might be looking like this:
-root
--- gulp-src
----- files
----- fonts
----- img
----- svgicons
+root  
+-- gulp-src  
+---- files  
+---- fonts  
+---- img  
+---- svgicons  
 
 Then, after gulp work, you can find all processed files into /src/assets folder.
