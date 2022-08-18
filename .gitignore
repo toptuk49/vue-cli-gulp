@@ -1,0 +1,4 @@
+# Build folder
+/src
+# Node modules
+/node_modules
